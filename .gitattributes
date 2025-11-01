@@ -1,0 +1,21 @@
+# normalize text files
+* text=auto
+
+# common source files
+*.kt     text
+*.java   text
+*.xml    text
+*.gradle text
+*.pro    text
+*.md     text
+*.txt    text
+
+# mark binaries so they are not changed
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.keystore binary
+*.jks    binary
+*.p12    binary
+*.apk    binary
